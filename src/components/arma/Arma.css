@@ -1,0 +1,42 @@
+#arma{
+    background-color: gray;
+    border: 1px solid white;
+    padding: 20px;
+    width: 800px;
+}
+
+#arma_direction{
+    display: flex; 
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+#texts_arma{
+    color: #fff;
+    margin-left: 50px;
+    text-align: start;
+}
+ 
+#arma_direction > img{
+    height: 300px;
+}
+
+#saiba_arma{
+    background-color: blue;
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 5px;
+    height: 40px;
+    width: 120px;
+    color: #fff;
+    font-size: 15px;
+    transition: all 0.5s;
+}
+
+#saiba_arma:hover{
+    background-color: transparent;
+    border-color: white;
+    color: blue;
+    transform: translateY(-10px);
+}

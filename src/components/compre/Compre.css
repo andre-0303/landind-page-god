@@ -1,0 +1,14 @@
+#compre{
+    background-color: blue;
+    padding: 10px;
+    border: 1px solid #fff;
+    border-radius: 10px;
+    color: #fff;
+    text-decoration: none;
+    margin-right: 10px;
+    transition: all 0.5s;
+}
+
+#compre:hover{
+    background-color: rgb(33, 75, 199);
+}

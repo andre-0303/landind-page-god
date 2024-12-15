@@ -1,0 +1,19 @@
+#nav_bar{
+    display: flex;
+    flex-direction: row;
+    width: 100vw;
+    justify-content: space-between;
+    padding-top: 15px;
+    align-items: center;
+}
+
+#links > a{
+    color: #fff;
+    text-decoration: none;
+    margin-right: 25px;
+}
+
+#logo{
+    margin-left: 15px;
+
+}

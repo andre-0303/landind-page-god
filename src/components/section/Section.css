@@ -1,0 +1,36 @@
+#section_reino{
+    display: flex;
+    margin-top: 100px;
+    justify-content: space-between;
+    background-image: url(../../assets_copy/img/background-2.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    align-items: center;
+}
+
+#imgs{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-left: 20px;
+}
+
+#imgs > img{
+    width: 250px;
+    border: 1px solid white;
+}
+
+#content_texts{
+    margin-right: 40px;
+}
+
+#content_texts > h2{
+    color: #fff;
+    font-size: 38px;
+    width: 250px;
+}
+
+#content_texts > p{
+    font-size: 20px;
+    width: 250px;
+}

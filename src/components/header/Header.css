@@ -1,0 +1,40 @@
+header{
+    background-image: url(../../assets_copy/img/background.svg);
+    background-size: 100%;
+    background-color: black;
+    background-repeat: no-repeat;
+    width: 100vw;
+    height: 700px;
+}
+
+h1{
+    width: 500px;
+    font-size: 50px;
+}
+
+p{
+    width: 550px;
+    margin-bottom: 20px;
+}
+
+h1, p{
+    color: #fff;
+}
+
+.div_video > video{
+    height: 250px;
+    margin-top: 20px;
+}
+
+#saiba{
+    text-decoration: none;
+    color: #fff;
+    border: 1px solid #fff;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.content{
+    margin-left: 150px;
+    margin-top: 50px;
+}

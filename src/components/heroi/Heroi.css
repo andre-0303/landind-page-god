@@ -1,0 +1,13 @@
+#img_heroi{
+    height: 350px;
+    border: 1px solid #fff;
+    background-color: rgb(92, 92, 92);
+    transition: all 0.5s;
+}
+
+#img_heroi:hover{
+    border-color: blue;
+    border-width: 2px;
+    transform: translateY(-10px);
+}
+
